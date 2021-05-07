@@ -10,5 +10,5 @@
   "scripts": {
     "test": "node bing-web-search.js"
   },
-  "author": "Nanda Kishore"
+  "author": "Venkata Sai Nanda Kishore"
 }
