@@ -6,7 +6,6 @@ The sample app can:
 
 * Call the Bing Web Search API with search options
 * Display web, image, news, and video results
-* Paginate results
 * Manage subscription keys
 * Handle errors
 
