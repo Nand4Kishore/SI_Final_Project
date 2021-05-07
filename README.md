@@ -32,7 +32,3 @@ Here are a few things that you'll to run the app:
    node bing-web-search.js
    ```
 5. Navigate to the provided URL and perform your first Bing Web Search!
-
-## Next steps
-
-Learn how the app works with the [single-page web app tutorial](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-web-search/tutorial-bing-web-search-single-page-app).
