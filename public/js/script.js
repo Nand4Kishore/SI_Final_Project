@@ -1,4 +1,4 @@
-// Do not enter your credentials.
+
 API_KEY_COOKIE   = "bing-search-api-key";
 CLIENT_ID_COOKIE = "bing-search-client-id";
 
