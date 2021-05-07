@@ -1,6 +1,6 @@
 # Bing Web Search single-page app
 
-This single-page app demonstrates how the Bing Web Search API can be used to retrieve, parse, and display relevant search results based on a user's query. HTML, CSS, and JS files are included. Express.js is the only dependency.
+This project demonstrates how the Bing Web Search API can be used to retrieve search results based on a user's query. 
 
 The sample app can:
 
@@ -13,8 +13,6 @@ The sample app can:
 To use this app, an [Azure Cognitive Services account](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account) with Bing Search APIs is required. If you don't have an account, you can visit [the Microsoft Cognitive Services Web site](https://azure.microsoft.com/free/cognitive-services/), create a new Azure account, and try Cognitive Services for free.
 
 ## Prerequisites
-
-Here are a few things that you'll to run the app:
 
 * Node.js 8 or later
 * A subscription key
