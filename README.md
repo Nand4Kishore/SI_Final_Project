@@ -31,4 +31,4 @@ To use this app, an [Azure Cognitive Services account](https://docs.microsoft.co
 5. Navigate to the provided URL and perform your first Bing Web Search!
 
 ##Documentation
-The documentation for this project can be found [here]./Documentation/SI Project
+The documentation for this project can be found [here](./Documentation/SI Project)
